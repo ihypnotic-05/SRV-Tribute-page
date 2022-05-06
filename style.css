@@ -1,0 +1,52 @@
+.container1 {
+  display: flex;
+  width: 300px;
+  height: 300px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  margin: auto;
+  justify-content: center;
+}
+
+.container2 {
+  display:flex;
+  width: 400px;
+  height:300px;
+  padding-right: 110px;
+  gap: 10px;
+  margin:auto;
+  justify-items: center;
+
+}
+.BW-Photo {
+  display: flex;
+  max-width: 100px;
+  height:280px;
+}
+#title {
+  text-align: center;
+}
+
+#img-caption {
+  text-align: center;
+  font-size: 30px;
+}
+
+
+#tribute-info  {
+
+text-align: center;
+
+}
+
+
+#Wiki-link {
+  display:flex;
+  gap: 1700px;
+
+  }
+#main {
+  background-color: #fffdd0;
+}
+
